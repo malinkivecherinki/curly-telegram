@@ -22,3 +22,9 @@ function newFunction6() {
 function newFunction7() {
     return 7;
 }
+
+
+// Update 22
+function newFunction22() {
+    return 22;
+}
