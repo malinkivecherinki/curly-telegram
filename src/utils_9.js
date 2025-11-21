@@ -27,3 +27,9 @@ module.exports = Calculator;
 function newFunction11() {
     return 11;
 }
+
+
+// Update 13
+function newFunction13() {
+    return 13;
+}
