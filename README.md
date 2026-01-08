@@ -1,12 +1,27 @@
-# curly-telegram
+# Project
 
-A development project with various utilities and tools.
+## Update 18
 
-## Getting Started
+This project includes various utilities and tools.
 
-This project contains scripts, utilities, and small applications.
+### Features
 
+- Feature 18
+- Utility functions
+- Configuration management
 
-## Update 14
+### Installation
 
-Added new features and improvements in update 14.
+\`\`\`bash
+npm install
+\`\`\`
+
+### Usage
+
+\`\`\`javascript
+const utils = require('./src/utils');
+\`\`\`
+
+### Changelog
+
+- Update 18: Added new features and improvements
