@@ -1,27 +1,32 @@
-# Project
+# MessageQueue
 
-## Update 57
+Lightweight message queue implementation
 
-This project includes various utilities and tools.
+## Features
 
-### Features
+- Core functionality implementation
+- Well-documented codebase
+- Easy to use API
+- Extensible architecture
 
-- Feature 57
-- Utility functions
-- Configuration management
-
-### Installation
+## Installation
 
 \`\`\`bash
 npm install
+# or
+pip install -r requirements.txt
 \`\`\`
 
-### Usage
+## Usage
 
 \`\`\`javascript
-const utils = require('./src/utils');
+const MessageQueue = require('./src/index');
 \`\`\`
 
-### Changelog
+## Development
 
-- Update 57: Added new features and improvements
+This project is actively maintained and developed.
+
+## License
+
+MIT

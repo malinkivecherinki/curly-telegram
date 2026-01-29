@@ -1,0 +1,3 @@
+"""
+MessageQueue package.
+"""
